@@ -323,3 +323,7 @@ Estas funções foram popularizadas pelo GitHub mas já se encontram disponívei
 [luisfaceira@gmail.com](mailto:luisfaceira@gmail.com)
 
 [hackaveiro.org](https://hackaveiro.org)
+
+--
+
+Beijinhos
