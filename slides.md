@@ -44,7 +44,7 @@ técnicas, ciências e artes por
 
 ----
 
-## 1. Controlo de rebisões?
+## 1. Controlo de revisões?
 
 --
 
