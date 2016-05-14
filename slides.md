@@ -1,4 +1,4 @@
-# Workshop de GitHub
+﻿# Workshop de GitHub
 
 Introdução a sistemas modernos de controlo de revisões
 
@@ -44,7 +44,7 @@ técnicas, ciências e artes por
 
 ----
 
-## 1. Controlo de rebisões?
+## 1. Controlo de revisões?
 
 --
 
@@ -60,7 +60,7 @@ técnicas, ciências e artes por
 
 --
 
-Um sistema de controlo de revisoes permite gerir a _**evolução**_ de um conjunto de documentos/ficheiros
+Um sistema de controlo de revisões permite gerir a _**evolução**_ de um conjunto de documentos/ficheiros
 
 --
 
