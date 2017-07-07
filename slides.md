@@ -6,7 +6,7 @@
 * Technical skills
 * Endorsements
 
---
+----
 
 # Technologies
 
@@ -24,7 +24,7 @@
 
 ## Projects
 
---
+----
 
 # Endorsements
 
@@ -41,7 +41,6 @@
 ## Unue
 
 --
-
 
 Thank you for passing by! 
 
