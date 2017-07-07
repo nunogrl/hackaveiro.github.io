@@ -1,6 +1,6 @@
 ﻿# Nuno Leitao
 
-[photo]: http://avatars0.githubusercontent.com/u/10015316?v=3&s=460
+![photo](http://avatars0.githubusercontent.com/u/10015316?v=3&s=460)
 
 * About
 * Technical skills
